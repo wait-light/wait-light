@@ -18,7 +18,9 @@ Here are some ideas to get you started:
 <a href="https://github.com/wait-light?tab=repositories">
   <img width="60%" align="center" src="https://github-readme-stats.vercel.app/api?username=wait-light&count_private=false&show_icons=true" />
 </a>
+
 I am using:
+
 <a href="https://github.com/wait-light?tab=repositories">
   <img width="30%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wait-light" />
 </a>
